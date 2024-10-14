@@ -10,8 +10,7 @@ e reforçado conhecimentos básicos já adquiridos no mysql, e por aí armando u
 ## Estatísticas do GitHub
 <div>
    <a href="https://github.com/Jessikamcc">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jessikamcc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
 ## Tecnologias que uso
