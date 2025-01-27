@@ -2,10 +2,9 @@
 # Olá, eu sou Jessika 👋😁
 
 ## 
-Sou estudante de TDS (Desenvolvimento de software) no Senac, enfocada em exercitar minhas habilidades
-e codar quanto puder como marombeiro no gym ou a racha de duolingo, por enquanto estou entrando no Java
-e reforçado conhecimentos básicos já adquiridos no mysql, e por aí armando um ou 2 projetos.
 
+Sou estudante de Desenvolvimento de Software, por enquanto, estou focando em tecnologias como MySQL para bancos de dados e JAVA como linguagem de programação. 
+Também estou aprendendo ferramentas adicionais como Figma/HTML/CSS.
 
 ## Estatísticas do GitHub
 <div>
