@@ -3,7 +3,7 @@
 
 ## 
 
-Sou estudante de Desenvolvimento de Software, por enquanto, estou focando em tecnologias como MySQL para bancos de dados e Java como linguagem de programação. 
+Sou estudante de Desenvolvimento de Software, por enquanto, estou focanda em tecnologias como MySQL para bancos de dados e Java como linguagem de programação. 
 Também estou aprendendo ferramentas adicionais como Figma/HTML/CSS.
 
 ## Estatísticas do GitHub
