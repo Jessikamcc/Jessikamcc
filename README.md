@@ -3,8 +3,8 @@
 
 ## 
 
-Sou estudante de Desenvolvimento de Software, estou usando atualmente MySQL para bancos de dados e Java como linguagem de programação. 
-e ferramentas adicionais como Figma/HTML/CSS.
+Sou estudante de Desenvolvimento de Software, estou focando atualmente em MySQL para bancos de dados, 
+Java como linguagem de programação e ferramentas adicionais como Figma/HTML/CSS.
 
 ## Estatísticas do GitHub
 <div>
