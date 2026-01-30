@@ -3,8 +3,8 @@
 
 ## 
 
-Sou estudante de Desenvolvimento de Software, estou focando atualmente em MySQL para bancos de dados, 
-Java como linguagem de programação e ferramentas adicionais como Figma/HTML/CSS.
+Estudante de Desenvolvimento de Software com experiência em Java, MySQL e desenvolvimento de aplicações desktop integradas a banco de dados.
+Conhecimentos em modelagem de dados, orientação a objetos, versionamento com Git e interfaces web com HTML, CSS e JS.
 
 ## Estatísticas do GitHub
 <div>
