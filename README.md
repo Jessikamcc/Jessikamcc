@@ -7,9 +7,10 @@ Estudante de Desenvolvimento de Software com experiência em Java, MySQL e desen
 Conhecimentos em modelagem de dados, orientação a objetos, versionamento com Git e interfaces web com HTML, CSS e JS.
 
 ## Estatísticas do GitHub
-<div>
-   <a href="https://github.com/Jessikamcc">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jessikamcc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<div align="center">
+  <a href="https://github.com/Jessikamcc">
+    <img height="180em" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=Jessikamcc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </a>
 </div>
 
 ## Tecnologias que uso
