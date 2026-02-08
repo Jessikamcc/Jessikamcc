@@ -9,7 +9,10 @@ Conhecimentos em modelagem de dados, orientação a objetos, versionamento com G
 ## Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Jessikamcc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jessikamcc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jessikamcc&layout=compact&theme=tokyonight"/>
+</p>
 
 ## Tecnologias que uso
 
