@@ -6,13 +6,11 @@
 Estudante de Desenvolvimento de Software com experiência em Java, MySQL e desenvolvimento de aplicações desktop integradas a banco de dados.
 Conhecimentos em modelagem de dados, orientação a objetos, versionamento com Git e interfaces web com HTML, CSS e JS.
 
-
 ## Estatísticas do GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JessikaMcc&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jessikamcc&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JessikaMcc&layout=compact&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jessikamcc&layout=compact&theme=tokyonight)
 
 
 ## Tecnologias que uso
