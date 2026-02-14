@@ -6,12 +6,6 @@
 Estudante de Desenvolvimento de Software com experiência em Java, MySQL e desenvolvimento de aplicações desktop integradas a banco de dados.
 Conhecimentos em modelagem de dados, orientação a objetos, versionamento com Git e interfaces web com HTML, CSS e JS.
 
-## Estatísticas do GitHub
-
-<p align="center">
- <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jessikamcc&theme=tokyonight"/>
-</p>
-
 ## Tecnologias que uso
 
 <div style="display: inline_block"><br>
