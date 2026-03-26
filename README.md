@@ -3,7 +3,7 @@
 
 ## 
 
-Estudante de Desenvolvimento de Software com experiência em Java, MySQL e desenvolvimento de aplicações desktop integradas a banco de dados.
+Estudante de Desenvolvimento de Software com experiência em Java, MySQL e desenvolvimento de aplicações desktop e web integradas a banco de dados.
 Conhecimentos em modelagem de dados, orientação a objetos, versionamento com Git e interfaces web com HTML, CSS e JS.
 
 ## Tecnologias que uso
